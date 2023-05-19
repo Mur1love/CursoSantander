@@ -3,3 +3,5 @@
 ##Fazendo testes
 
 *fazendo um pull
+
+*comando git fatch
